@@ -34,7 +34,7 @@ Sinta-se à vontade para contribuir! Abra uma [issue](https://github.com/seu-usu
 
 ## Autor 👨‍💻
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Walakys Augusto](https://github.com/seu-usuario](https://github.com/WalakysProvidello/-Verificador-de-Ano-Bissexto/edit/main/README.md))
 
 ## Licença 📝
 
