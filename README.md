@@ -21,8 +21,10 @@ Um simples aplicativo para verificar se um ano é bissexto. 🎉
 
 ## Capturas de Tela 📸
 
-![Captura de Tela 1](screenshots/screenshot1.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
+![Captura de Tela 1](![image](https://github.com/WalakysProvidello/-Verificador-de-Ano-Bissexto/assets/104736938/ea73cd10-9588-4746-96ee-adca7c85a891)
+)
+![Captura de Tela 2](![image](https://github.com/WalakysProvidello/-Verificador-de-Ano-Bissexto/assets/104736938/23da32c4-aa64-4f35-b929-e04543eaf447)
+)
 
 ## Tecnologias Utilizadas 🛠️
 
